@@ -7,5 +7,5 @@ clone the repository.
 
 ### Step2:
 Run 
-```bash python main.py```
+```python main.py```
 
